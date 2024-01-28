@@ -7,7 +7,7 @@ body{
     text-align: center;
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: b5d6b2;
+    background-color: #b5d6b2;
 }
 
 #container{
@@ -33,7 +33,7 @@ body{
     font-size: 8vmin;
     color: brown;
     box-shadow: 0px 0px 10px black;
-    background-color:ffefbd;
+    background-color:#ffefbd;
 }
 
 #reset-btn{
@@ -41,14 +41,14 @@ body{
     font-size: 20px;
     height: 3rem;
     border-radius: 5px;
-    color:white
-    background-color: ffefbd;
+    color:white;
+    background-color:#53131e;
 }
 
 #new-btn{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: ffefbd;
+    background-color: #53131e;
     border-radius: 1rem;
     color: white;
     border: none;
